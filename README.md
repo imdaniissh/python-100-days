@@ -47,15 +47,6 @@ python-100-days/
 └── Day-100/
 ```
 
----
-
-## 📅 Progress Tracker
-
-| Day | Topic | Status |
-|------|-------|--------|
-| 01 | Hello World, Variables, Input | ✅ Completed |
-| 02 | Coming Soon | ⏳ |
-| 03 | Coming Soon | ⏳ |
 
 ---
 
