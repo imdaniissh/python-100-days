@@ -16,3 +16,6 @@
 age=23
 is_student=False
 name="check my resume for that"
+
+#The type() function is used to check the data type of a variable or value.
+print(type(age))  # it will print <class 'int'>
