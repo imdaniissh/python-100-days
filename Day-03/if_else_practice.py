@@ -52,7 +52,16 @@ elif ch>"a" and ch<="z":
 else:
    print("Invalid input")
       
-
+#question 5
+#Electricity clculator
+x=int(input("enter the unit")
+if x>=0 adn x<=100:
+   
+   print(unit*5)
+elif x>100 and x<=200:
+      print(x*7)
+else:
+      print(x*10)
 
 
 
