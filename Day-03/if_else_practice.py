@@ -41,7 +41,18 @@ elif x%100==0:
 elif x%4==0:
       print("leap year")
 else:
-      print("leap year")
+      print("not a leapppp year")
+
+#Check vowel or consonant
+ch=int(input("enter the alphabet:")
+if ch=="a" or ch="e" ch=="i" or ch="o" or ch="u":
+   print("vowel")
+elif ch>"a" and ch<="z":
+   print("Consonant")
+else:
+   print("Invalid input")
+      
+
 
 
 
