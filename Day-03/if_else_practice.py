@@ -30,4 +30,19 @@ elif y>x:
       print("second is greater")
 else:
       print("equal")
-      
+
+#question 4
+#Check leap year
+x=int(input("enter the year:")
+if x%400==0:
+      print("leap year")
+elif x%100==0:
+      print("not a leapppp year")
+elif x%4==0:
+      print("leap year")
+else:
+      print("leap year")
+
+
+
+
