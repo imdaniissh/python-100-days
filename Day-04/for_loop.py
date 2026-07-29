@@ -21,5 +21,8 @@ for i in range(5):
   print(i)
 for i in range(2,11,2):
   print(i)
-  
+#loop through a string
+word="python"
+for letter in word:
+  print(letter)
 
