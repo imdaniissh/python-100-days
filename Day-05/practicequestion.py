@@ -25,5 +25,6 @@ while True:
   else:
     print("Wrong password.Try again.")
 
+#4.print all prime numbers from 1 to 100
 
     
