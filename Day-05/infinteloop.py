@@ -45,3 +45,15 @@ for i in range(1,6):
     continue
   print(i)
   
+#
+================================
+Pass statement
+================================
+#The pass statement is a null statement in python.it does nothing when executed
+#it is used as a placeholder where code is required syntactically but you dont want to write any code yet
+#example
+for i in range(1,6):
+  if i==3:
+    pass
+  print(i)
+
