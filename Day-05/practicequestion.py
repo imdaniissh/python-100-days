@@ -33,6 +33,17 @@ for i in range(2,101):
       break
    else:
       print(i)
+#Keep taking numbers as input from the user.
+#Add only positive numbers to the total.
+#Stop the loop when the user enters a negative number.
+#Print the final sum.      
       
-      
-    
+sum=0
+while True:
+  x=int(input("enter the number")
+  if x>0:
+        sum+=x
+  elif x<0:
+        print(sum)
+        break
+  
