@@ -17,8 +17,9 @@ for i in range(1,101):
 #The correct password is "python123".
 #Keep asking the user to enter the password until it is correct.
 #Print "Access Granted" and exit the loop.
-password=input("enter the password")
+
 while True:
+  password=input("enter the password")
   if password=="python123":
     print("access granted")
     break
@@ -26,9 +27,12 @@ while True:
     print("Wrong password.Try again.")
 
 #4.print all prime numbers from 1 to 100
-for i in range(2,100):
-  for j in range(3,100):
+for i in range(2,101):
+  for j in range(2,i):
     if i%j==0:
+      break
+   else:
+      print(i)
       
       
     
