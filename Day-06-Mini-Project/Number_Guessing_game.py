@@ -1,4 +1,5 @@
 import random
+
 target=random.randint(1,100)
 attempt_count=0
 while attempt_count<10:
