@@ -14,8 +14,6 @@ while attempt_count<10:
              break
   elif number>100 or number<1:
             print("invalid number")
-            
-            
             continue
      
             
