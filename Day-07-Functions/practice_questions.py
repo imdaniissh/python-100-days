@@ -49,5 +49,15 @@ print(is_even(num))
       print(calculator(num1,operator,num2)
             
                
+#5. write a function to find the factorial
 
+    def factorial(n): 
+      product=1
+      for i in range(1,n):
+        product*=i
+      return product
+    n=int(input("enter the number")
+    print(factorial(n))
+          
+      
     
